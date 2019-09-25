@@ -1,4 +1,4 @@
-{
-"You look Beautiful today",
-"I can see you smiling"
-}
+[
+  { "_id": 123, "title": "Hi Somayeh!" },
+  { "_id": 456, "title": "Please Smile" }
+]
